@@ -6,7 +6,7 @@ In the backend directory, then run:
 
 ##note: Remember to connect the app with mongo db by giving the URI in the .env file
 
-# for running fronend
+# for running frontend
 
 In the mern-exercise-tracker directory, then run:
 
